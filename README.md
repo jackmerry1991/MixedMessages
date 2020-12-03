@@ -1,0 +1,2 @@
+# MixedMessages
+JS Syntax practice
